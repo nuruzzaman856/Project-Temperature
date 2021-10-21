@@ -1,0 +1,15 @@
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\bin\Debug\net5.0\TemperatureApp.Data.deps.json
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\bin\Debug\net5.0\TemperatureApp.Data.runtimeconfig.json
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\bin\Debug\net5.0\TemperatureApp.Data.runtimeconfig.dev.json
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\bin\Debug\net5.0\TemperatureApp.Data.dll
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\bin\Debug\net5.0\ref\TemperatureApp.Data.dll
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\bin\Debug\net5.0\TemperatureApp.Data.pdb
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\obj\Debug\net5.0\TemperatureApp.Data.csprojAssemblyReference.cache
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\obj\Debug\net5.0\TemperatureApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\obj\Debug\net5.0\TemperatureApp.Data.AssemblyInfoInputs.cache
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\obj\Debug\net5.0\TemperatureApp.Data.AssemblyInfo.cs
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\obj\Debug\net5.0\TemperatureApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\obj\Debug\net5.0\TemperatureApp.Data.dll
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\obj\Debug\net5.0\ref\TemperatureApp.Data.dll
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\obj\Debug\net5.0\TemperatureApp.Data.pdb
+C:\Users\nuruz\Desktop\ProjectTemperature\Temperature App\TemperatureApp.Data\obj\Debug\net5.0\TemperatureApp.Data.genruntimeconfig.cache

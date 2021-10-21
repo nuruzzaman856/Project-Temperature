@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureApp.Data", "TemperatureApp.Data\TemperatureApp.Data.csproj", "{8B96ABD0-7133-4B24-B7B0-6084114CABF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureApp.UI", "..\TemperatureApp.UI\TemperatureApp.UI.csproj", "{49BC27A6-7CFC-4048-9AE9-EDA0028828A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B96ABD0-7133-4B24-B7B0-6084114CABF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B96ABD0-7133-4B24-B7B0-6084114CABF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B96ABD0-7133-4B24-B7B0-6084114CABF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B96ABD0-7133-4B24-B7B0-6084114CABF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BC27A6-7CFC-4048-9AE9-EDA0028828A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BC27A6-7CFC-4048-9AE9-EDA0028828A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BC27A6-7CFC-4048-9AE9-EDA0028828A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BC27A6-7CFC-4048-9AE9-EDA0028828A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B134D7A0-B365-4226-8024-B227E7AC1DF1}
+	EndGlobalSection
+EndGlobal
